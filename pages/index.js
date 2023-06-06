@@ -46,6 +46,7 @@ const Home = ({ sortList, error }) => {
             xs={12}
             style={{ marginBottom: '1rem' }}
           >
+            Test
             <CustomCard
               data={pokemon}
               onClick={() => {
